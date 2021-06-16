@@ -1,0 +1,1 @@
+#practicando animaciones en react native
